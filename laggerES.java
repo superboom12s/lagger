@@ -6,7 +6,7 @@ public class laggerES {
         public static void main(String[] args) {
             JFrame jFrame = new JFrame();
 
-            String continuar = JOptionPane.showInputDialog(jFrame, "Estas seguro de que quieres continuar?\npuede que tu equipo se sobrecaliente u otras cosas\n\n[S/N]");
+            String continuar = JOptionPane.showInputDialog(jFrame, "Estas seguro de que quieres continuar?\npuede que tu equipo se sobrecaliente\n\n[S/N]");
 
 
 
