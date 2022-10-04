@@ -6,7 +6,7 @@ public class lagger {
         public static void main(String[] args) {
             JFrame jFrame = new JFrame();
 
-            String continuar = JOptionPane.showInputDialog(jFrame, "Continue? Your PC will overheat [Y/N]");
+            String continuar = JOptionPane.showInputDialog(jFrame, "Continue? Your PC will overheat\n\n[Y/N]");
 
 
 
