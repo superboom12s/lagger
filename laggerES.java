@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class lagger {
+public class laggerES {
     
 
         public static void main(String[] args) {
